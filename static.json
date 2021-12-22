@@ -1,3 +1,7 @@
 {
-    "root": "bootstrap-bootcamp-website/"
-}
+    "root": "public",
+    "clean_urls": false,
+    "routes": {
+      "/**": "index.html"
+    }
+  }
